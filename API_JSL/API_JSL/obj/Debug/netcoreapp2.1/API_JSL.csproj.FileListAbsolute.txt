@@ -1,0 +1,14 @@
+C:\Users\rafael.leal\Documents\Dev\TesteJSL\teste-api-caminhoneiro\API_JSL\API_JSL\bin\Debug\netcoreapp2.1\API_JSL.deps.json
+C:\Users\rafael.leal\Documents\Dev\TesteJSL\teste-api-caminhoneiro\API_JSL\API_JSL\bin\Debug\netcoreapp2.1\API_JSL.runtimeconfig.json
+C:\Users\rafael.leal\Documents\Dev\TesteJSL\teste-api-caminhoneiro\API_JSL\API_JSL\bin\Debug\netcoreapp2.1\API_JSL.runtimeconfig.dev.json
+C:\Users\rafael.leal\Documents\Dev\TesteJSL\teste-api-caminhoneiro\API_JSL\API_JSL\bin\Debug\netcoreapp2.1\API_JSL.dll
+C:\Users\rafael.leal\Documents\Dev\TesteJSL\teste-api-caminhoneiro\API_JSL\API_JSL\obj\Debug\netcoreapp2.1\API_JSL.csprojAssemblyReference.cache
+C:\Users\rafael.leal\Documents\Dev\TesteJSL\teste-api-caminhoneiro\API_JSL\API_JSL\obj\Debug\netcoreapp2.1\API_JSL.csproj.CoreCompileInputs.cache
+C:\Users\rafael.leal\Documents\Dev\TesteJSL\teste-api-caminhoneiro\API_JSL\API_JSL\obj\Debug\netcoreapp2.1\API_JSL.RazorAssemblyInfo.cache
+C:\Users\rafael.leal\Documents\Dev\TesteJSL\teste-api-caminhoneiro\API_JSL\API_JSL\obj\Debug\netcoreapp2.1\API_JSL.RazorAssemblyInfo.cs
+C:\Users\rafael.leal\Documents\Dev\TesteJSL\teste-api-caminhoneiro\API_JSL\API_JSL\obj\Debug\netcoreapp2.1\API_JSL.AssemblyInfoInputs.cache
+C:\Users\rafael.leal\Documents\Dev\TesteJSL\teste-api-caminhoneiro\API_JSL\API_JSL\obj\Debug\netcoreapp2.1\API_JSL.AssemblyInfo.cs
+C:\Users\rafael.leal\Documents\Dev\TesteJSL\teste-api-caminhoneiro\API_JSL\API_JSL\obj\Debug\netcoreapp2.1\API_JSL.RazorTargetAssemblyInfo.cache
+C:\Users\rafael.leal\Documents\Dev\TesteJSL\teste-api-caminhoneiro\API_JSL\API_JSL\bin\Debug\netcoreapp2.1\API_JSL.pdb
+C:\Users\rafael.leal\Documents\Dev\TesteJSL\teste-api-caminhoneiro\API_JSL\API_JSL\obj\Debug\netcoreapp2.1\API_JSL.dll
+C:\Users\rafael.leal\Documents\Dev\TesteJSL\teste-api-caminhoneiro\API_JSL\API_JSL\obj\Debug\netcoreapp2.1\API_JSL.pdb
